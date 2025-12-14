@@ -188,7 +188,7 @@
 .totop a {
     width: 54px;
     height: 54px;
-    background: var(--color-one);
+    background: #1abc9c;
     color: var(--color-white-fixed);
     display: inline-block;
     text-align: center;

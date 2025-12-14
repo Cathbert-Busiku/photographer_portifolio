@@ -1,9 +1,9 @@
 /*
-Theme Name: Kimono - Photography Agency
+Theme Name: MBC Kamona - Photography Agency
 Version: 1.0
 Author: WPThemeBooster
 Author URL: 
-Description: Kimono - Photography Agency
+Description: MBC Kamona - Photography Agency
 */
 /*	IE 10 Fix*/
 

@@ -2429,7 +2429,7 @@ Ready Components Stylesheet
     height: 56px;
     font-size: 24px;
     color: var(--color-white-fixed);
-    background-color: var(--color-one);
+    background-color:linear-gradient(135deg, var(#1abc9c), var(#f39c12)) !important;
     margin-right: 22px;
     -webkit-box-shadow: 0 10px 20px 0 rgba(var(--color-one-rgb),.25);
     -khtml-box-shadow: 0 10px 20px 0 rgba(var(--color-one-rgb),.25);
@@ -5045,7 +5045,7 @@ Ready Components Stylesheet
 
 /* highlight */
 .testimonial-colored .wptb-testimonial1 .wptb-item--inner {
-	background-color: var(--color-one);
+	/* background-color: var(--color-one); */
 }
 .testimonial-colored .wptb-testimonial1 .wptb-item--inner .wptb-item--meta,
 .testimonial-colored .wptb-testimonial1 .wptb-item--inner .wptb-item--image,

@@ -201,7 +201,7 @@
     justify-content: center;
     font-size: 30px;
     line-height: 40px;
-    background-color: var(--color-one);
+    background-color: #1abc9c !important;
     color: var(--color-white-fixed);
     border-radius: 100%;
 }
@@ -1229,7 +1229,7 @@
     letter-spacing: -0.24px;
 }
 .wptb-product-list .widget-title::before {
-    content: url(https://wpthemebooster.com/demo/themeforest/html/kimono/assets/img/more/divider.svg);
+    content: url(https://wpthemebooster.com/demo/themeforest/html/kimona/assets/img/more/divider.svg);
 }
 .wptb-product-list .widget-title::after {
     display: none;

@@ -155,9 +155,15 @@
     --fs-600:	    37.5rem;
     --fs-680:	    42.5rem;
 
+     --grey-dark: #2c3e50;
+    --grey-light: #ecf0f1;
+    --white: #ffffff;
+    --turquoise: #1abc9c;
+    --mustard: #f39c12;
+
     /* Theme Colors */
     /* Primary Color */
-    --color-one:                        #B90808;
+    --color-one:                      linear-gradient(135deg, var(#1abc9c), var(#f39c12)) !important;
     --color-one-rgb:                    185, 8, 8;
 
     /* Index 4 */
@@ -306,7 +312,7 @@
 }
 
 :root .theme-style--orange {
-    --color-one:                     #F85623;
+    /* --color-one:                     #F85623; */
     --color-one-rgb:                    248, 86, 35;
 
     --link-color:                      #FFFFFF;
@@ -320,7 +326,7 @@
     --link-color-hover:                #43FFEC;
 }
 :root .theme-style--olive {
-    --color-one:                       #A6A182;
+    /* --color-one:                       #A6A182; */
     --color-one-rgb:                     166, 161, 130;
 
     --link-color:                      #FFFFFF;
@@ -771,7 +777,7 @@ input[type="submit"],
     line-height: var(--fs-21);
     text-transform: capitalize;
     color: var(--color-white-fixed);
-    background: var(--color-one);
+    background: #1abc9c;
     border-width: 0px;
     -webkit-border-radius: 0px;
     -moz-border-radius: 0px;
